@@ -39,7 +39,7 @@
 
 <br>
 
-## 🚀 Enfoque Actual
+##  Enfoque Actual
 
 <table>
 <tr>
